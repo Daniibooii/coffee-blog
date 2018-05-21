@@ -1,5 +1,7 @@
 # coffee-blog
 
+<img src="https://github.com/Daniibooii/cryptoGolf/blob/master/assets/images/toddImage.ico"><br>
+
 # Project Description
 This project is intended as a collaborative effort between myself and a friend.<br>
 The intent is to create a personal blog for his use, focusing mostly on coffee and related topics.<br>
