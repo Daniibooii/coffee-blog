@@ -1,6 +1,6 @@
 # coffee-blog
 
-<img src="https://github.com/Daniibooii/cryptoGolf/blob/master/assets/images/toddImage.ico"><br>
+<img src="https://github.com/Daniibooii/coffee-blog/blob/master/assets/images/toddImage.ico"><br>
 
 # Project Description
 This project is intended as a collaborative effort between myself and a friend.<br>
